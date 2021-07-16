@@ -4,8 +4,8 @@ var database;
 var foodS,foodStock;
 
 function preload(){
-   dogImg=loadImage("Images/Dog.png");
-   dogImg1=loadImage("Images/happy dog.png");
+   dogImg=loadImage("images/Dog.png");
+   dogImg1=loadImage("images/happy dog.png");
   }
 
 //Function to set initial environment
